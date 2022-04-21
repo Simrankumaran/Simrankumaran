@@ -1,5 +1,6 @@
 <p style="display: flex;">
   <h3> Hi there  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h3>
+  <img src="https://profile-counter.glitch.me/Simrankumaran/count.svg" align="right">
 
 </a>
  
