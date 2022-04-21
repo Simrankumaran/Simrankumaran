@@ -12,8 +12,8 @@
 ##### BIO
 
 - 🔭 I’m currently working at **QuickMetrix**
-- ✨ Learning all about the world of **Cybersecurity**
-- 🤔 I’m looking for help with web application security
+- ✨ Exploring the world of **Cybersecurity**
+- 🤔 Learning about web application security
 - 💬 Ask me about **web dev**
 - 📫 How to reach me: [simran.mudaliar@outlook.com](simran.mudaliar@outlook.com)
 - ⚡ Fun fact: Love Photography & Skies
