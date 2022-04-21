@@ -1,11 +1,8 @@
-<p style="display: flex;">
-  <h3> Hi there  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h3>
-  <img src="https://profile-counter.glitch.me/Simrankumaran/count.svg" align="right">
+<!-- <p style="display: flex;">
+  <h3> Hi there  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h3> 
+</p> -->
 
-</a>
- 
-</p>
-<!-- (### Hi there <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">)-->
+### Hi there <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 [![GitHub Simrankumaran](https://img.shields.io/github/followers/Simrankumaran?label=follow&style=social)](https://github.com/Simrankumaran)
 [![Linkedin: Simrankumran](https://img.shields.io/badge/-Simrankumran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/simran-kumaran/)](https://www.linkedin.com/in/simran-kumaran/)
@@ -46,3 +43,8 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
     </a>
 </p>
+
+
+## [Simran](https://github.com/Simrankumaran/)
+
+![VisitorCount](https://profile-counter.glitch.me/Simrankumaran/count.svg)
