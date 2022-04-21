@@ -12,7 +12,7 @@
 ##### BIO
 
 - 🔭 I’m currently working at **QuickMetrix**
-- ✨ Learnig all about the world of **Cybersecurity**
+- ✨ Learning all about the world of **Cybersecurity**
 - 🤔 I’m looking for help with web application security
 - 💬 Ask me about **web dev**
 - 📫 How to reach me: [simran.mudaliar@outlook.com](simran.mudaliar@outlook.com)
