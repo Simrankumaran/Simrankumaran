@@ -1,6 +1,7 @@
 <p style="display: flex;">
   <h3> Hi there  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h3>
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:Simrankumaran" align="right"></a>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:Simrankumaran" alt=":Simrankumaran" align="right"/>
+</a>
  
 </p>
 <!-- (### Hi there <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">)-->
