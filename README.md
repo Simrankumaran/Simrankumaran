@@ -47,4 +47,4 @@
 
 ## [Simran](https://github.com/Simrankumaran/)
 
-![VisitorCount](https://profile-counter.glitch.me/Simrankumaran/count.svg)
+<-- ![VisitorCount](https://profile-counter.glitch.me/Simrankumaran/count.svg) -->
