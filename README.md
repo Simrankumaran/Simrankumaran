@@ -11,9 +11,9 @@
 
 ##### BIO
 
-- 🔭 I’m currently working at **QuickMetrix**
-- ✨ Exploring the world of **Cybersecurity**
-- 🤔 Learning about web application security
+- 🔭 I’m currently working at **ABB**
+- 🔭 Previously worked at **QuickMetrix**
+- ✨ Exploring the worlds of **AI, ML, Cybersecurity**
 - 💬 Ask me about **web dev**
 - 📫 How to reach me: [simran.mudaliar@outlook.com](simran.mudaliar@outlook.com)
 - ⚡ Fun fact: Love Photography & Skies
